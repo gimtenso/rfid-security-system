@@ -1,0 +1,6 @@
+----- PROJETO SISTEMAS EMBARCADOS -----
+
+1. Projeto em Arduino que utiliza um RFID para verificar se a tag está cadastrada ou não;
+2. Caso esteja cadastrada ativa o Servo Motor para simular a abertura de uma fechadura;
+3. Código em PIC apenas para visualizar as mensagens printadas no Serial do Arduino no display LCD;
+4. Também utiliza um Buzzer e um PWM pra Ventoinha a fim de realizar os requisitos do projeto. 
